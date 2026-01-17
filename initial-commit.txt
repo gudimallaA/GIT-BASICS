@@ -3,3 +3,4 @@ our first step in Git
 =======
 This is my every first commit I love india and Respect America
 >>>>>>> 2dde895bb8c556b018e78a6db9055f5c9dd94d24
+I stay in America
